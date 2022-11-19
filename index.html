@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/973f7fabdf.js" crossorigin="anonymous" defer></script>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Modal</title>
+</head>
+<body style="background-image: url('https://picsum.photos/2700/2300');">
+    <div class="prompt">
+        <h1>Modal Prompt</h1>
+        <button onclick="handleModal()">Open Modal!</button>
+    </div>
+
+    <div id="bg" class="background non-viewable">
+        <div class="modal">
+            
+            <div class="top">
+                <h2>Modal!</h2>
+                <button onclick="handleModal()" class="closeBtn"><i class="fa-sharp fa-solid fa-xmark"></i></button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
