@@ -3,7 +3,7 @@ This is another project that is part from freecodecamp's yt channel! link: https
 
 This project I've decided to take beyond my usual challenges, adding on top of making a working modal, making it both beautiful and flexible (so that no matter the resolution of the device, there would always be a nice picture in the background!).
 
-At last, these challenges are in fact, made by myself, I really only take experience from the original source referenced bellow!
+At last, these challenges are in fact, made by myself, I really only take the base model from the original source referenced bellow!
 
 ## Reference:
 https://vanilla-js-basic-project-6-modal.netlify.app/
